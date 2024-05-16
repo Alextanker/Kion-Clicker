@@ -23,3 +23,24 @@
 <h2>Заключение</h2>
 
 <p>Вы можете использовать этот автокликер полностью бесплатно. Или адаптировать его исходный код для своего кликера. Этот код был написан давно, так что в нём может быть полно ошибок!</p>
+
+<h2>Creation History</h2>
+
+<p>The clicker was originally conceived as a commercial project, but competition in the market completely undermines the point of any paid autoclicker. <br>
+Why? The market is full of completely free autoclickers that do not differ from paid ones in their main functionality (clicking). It is also worth noting that practically any mouse has its own software for writing macros. This software will be better than 99% of autoclickers, as all its clicks are emulated at the mouse level, which allows bypassing any anti-cheats.
+</p>
+
+<h2>Functionality</h2>
+
+<p>At the time of publication, it easily bypasses the Lunar client. It also works for the Bedrock version of the game.</p>
+<ol>
+    <li><b>Randomization:</b> In this version, randomization has been updated. In most clickers, randomization is tied to clicks, which makes it extremely flat. In the "kion clicker," randomization is taken out into a separate thread, which practically brings it to perfection.</li>
+    <li><b>Jitter:</b> Jitter is also taken out into a separate thread, which allows removing dependence on clicks.</li>
+    <li><b>Click only within the game window:</b> If third-party clients are used for the game (for example, lunar), it probably will not work.</li>
+    <li><b>Hide the clicker window:</b> Allows hiding the clicker window for playing in demo mode, etc.</li>
+    <li><b>Self-destruction:</b> In theory, it should clean up all launch logs, etc.</li>
+</ol>
+
+<h2>Conclusion</h2>
+
+<p>You can use this autoclicker completely for free. Or adapt its source code for your own clicker. This code was written a long time ago, so it may be full of errors!</p>
