@@ -46,3 +46,7 @@
 .vs/
 Debug/
 Release/
+
+ImGui Loader Base.vcxproj
+ImGui Loader Base.vcxproj.filters
+ImGui Loader Base.vcxproj.user
